@@ -9,26 +9,26 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Bar-Restaurante El Rincón, al lado del Mar, en La Mata, tienen el mejor pescado fresco de la zona. Su especialidad es el pescaito frito y marisco">
-  <meta name="author" content="todo torrevieja">
+  <meta name="description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+  <meta name="author" content="Restaurante Dos Mas">
 
-  <title>Bar-Restaurante El Rincón, Pescado fresco y marisco </title>
+  <title>Restaurante Dos Mas </title>
 <!-- Schema.org for Google -->
-<meta itemprop="name" content="Restaurante El Rincón, Pescaito frito y Marisco ">
-<meta itemprop="description" content="Restaurante El Rincón, Especialidad en Pescaito frito y Marisco">
-<meta itemprop="image" content="https://www.todo-torrevieja.com/restaurante-el-rincon/assets/img/lamata.jpg">
+<meta itemprop="name" content="Restaurante Dos Mas ">
+<meta itemprop="description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+<meta itemprop="image" content="">
 
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-<meta name="og:title" content="Restaurante El Rincón, Pescaito frito y Marisco">
-<meta name="og:description" content="Restaurante El Rincón, Especialidad en Pescaito frito y Marisco.">
-<meta name="og:image" content="https://www.todo-torrevieja.com/restaurante-el-rincon/assets/img/lamata.jpg">
-<meta name="og:url" content="https://www.todo-torrevieja.com/restaurante-el-rincon">
-<meta name="og:site_name" content="Restaurante El Rincón ">
+<meta name="og:title" content="Restaurante Dos Mas ">
+<meta name="og:description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+<meta name="og:image" content="">
+<meta name="og:url" content="">
+<meta name="og:site_name" content=" ">
 <meta name="og:locale" content="es">
 <meta name="og:type" content="article">
 <!-- Open Graph - Article -->
 <meta name="article:section" content="Social Media">
-<meta name="article:author" content="Todo Torrevieja">
+<meta name="article:author" content="Restaurante Dos Mas ">
 <meta name="article:tag" content="Social Media">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CPlayfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -56,38 +56,7 @@
   <!-- CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158184790-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-158184790-1');
-</script>
-<!--   END  -->
-<meta http-equiv="Content-Type" name="Acumbamail-domain-verification" content="00e1bbe2-9693-11ea-88e5-005056bd5094"/>
-<!-- cookies -->
-		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-<!--   END  -->
-		
-    
-	<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '526346364734142');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=526346364734142&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
 </head>
 
 <body>
@@ -96,11 +65,11 @@
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <a href="tel:+34639971672"><i class="icofont-phone"></i> RESERVAS 639 971 672</a> 
+        <a href="tel:+34639971672"><i class="icofont-phone"></i> Para Llevar +34 639 70 68 34</a> 
         
       </div>
       <div class="timings">
-       <span class="d-none d-lg-inline-block"><i class=" icofont-rotate-180"></i> ABIERTO 09:00 - 18:00</span>
+       <span class="d-none d-lg-inline-block"><i class=" icofont-rotate-180"></i> ABIERTO Lunes a Domingo de 07:00 - 22:00</span>
      </div>
    </div>
  </div>
@@ -136,15 +105,18 @@
   <div class="container position-relative text-center text-lg-center" data-aos="zoom-in" data-aos-delay="100">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Bienvenidos a El Rincón</h2>
-        <h1><span>PESCAITO FRITO Y MARISCOS</span></h1>
-		<h2>Pescados frescos, al lado del mar.</h2>
+        <h2>Restaurante DOS MAS</h2>
+        <h1><span>Bocatas, Burguer, Pizzas y Ensaladas </span></h1>
+		<h2>Comida para Llevar</h2>
 		 <div class="btns">
-          <a href="tel:+34639971672" class="btn-book animated fadeInUp scrollto" onclick="gtag('event', 'telefono', { 'event_category': 'telefono', 'event_label': 'telefono'});">Reserva por Teléfono</a>
-		  </div>
-		  <div class="btns">
-		   <a   style="background-color:#25d366;" class="btn-book animated fadeInUp scrollto"  onclick="gtag('event', 'telefono', { 'event_category': 'telefono', 'event_label': 'telefono'});" target="_blank"  href="https://api.whatsapp.com/send?phone=34639971672">Reserva por Whatsapp</a>
+          <a href="tel:+34639706834" class="btn-book animated fadeInUp scrollto" onclick="gtag('event', 'llamada', { 'event_category': 'telefono', 'event_label': 'telefono'});">Reserva por Teléfono</a>
+		  
+		   <a class="btn-book animated fadeInUp scrollto"  onclick="gtag('event', 'llamada', { 'event_category': 'whatssapp', 'event_label': 'whatssapp'});" target="_blank"  href="https://api.whatsapp.com/send?phone=+34639706834">Reserva por Whatsapp</a>
 		   
+        </div>
+        <div class="btns">
+       <a class="btn-book animated fadeInUp scrollto"  onclick="gtag('event', 'llamada', { 'event_category': 'carta', 'event_label': 'carta'});" target="_blank"  href="https://www.foodbooking.com/ordering/restaurant/menu?company_uid=34718550-b03b-44aa-a938-fd089cfeb57f">Pide desde Nuestra Carta Virtual</a>
+       
         </div>
       </div>
 
@@ -166,20 +138,17 @@
  
        <div class="col-lg-6 pt-4 pl-4 ml-auto content">
          <div class="section-title">
-          <h2>Restaurante El Rincón </h2>
-          <p>Especialidad en Pescados Frescos</p>
+          <h2>Cervecería Dos Mas </h2>
+          <p> Take Away, Comida para llevar.</p>
         </div>
         
         <p class="font-italic">
-         Darte un homenaje de pescado fresco y de primera es fácil en Torrevieja. <br>
+         Tu mejor opcoión en comida para llevar. <br>
 
 		
-		Con zona de barra, se mantiene fiel a los platos tradicionales y, además de elaborar una de las 
-		mejores ensaladillas de Torrevieja, ofrece marisco fresco, pescaito frito, arroces de la tierra y una 
-		buena selección de pescados. La carta recoge platos pensados para compartir ( Pulpo a la Gallega, Gambas al ajillo, 
-		Mejillones al Vapor, Calamares a la Plancha )   </p>
+	Si te apetece la comida que comerías a diario en tu casa, pero de una manera rápida y cómoda, Cervecería Dos- mas te lo pone fácil. Cocinamos con ingredientes de la tierra, con el tipo de cocina al mas puro estilo mediterráneo tan arraigado en España. Si lo que quieres es comer comida española. Has encontrado el sitio perfecto </p>
 		 <p>
-		 Siente la brisa en la costa, pegado a la playa de La Mata, degustando los tesoros del mar que solo puedes encontrar en El Rincón.
+		Ahora reforzamos nuestra carta con Burguers, Ensaladas, Pizzas y nuestros Bocatas de siempre , para que te puedas llevar tu comida a casa.
           </p>
         <ul>
           <li><i class="icofont-check-circled"></i> Pescaito Frito</li>
