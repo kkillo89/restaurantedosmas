@@ -9,18 +9,18 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+  <meta name="description" content="Restaurante Dos Mas, Hamburguesas Pizzas Bocatas y ensaladas para comer en casa">
   <meta name="author" content="Restaurante Dos Mas">
 
   <title>Restaurante Dos Mas </title>
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="Restaurante Dos Mas ">
-<meta itemprop="description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+<meta itemprop="description" content="Restaurante Dos Mas, Hamburguesas Pizzas Bocatas y ensaladas para comer en casa">
 <meta itemprop="image" content="">
 
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="Restaurante Dos Mas ">
-<meta name="og:description" content="Restaurante Dos Mas, Hamburguesas Pizzas y ensaladas para comer en casa">
+<meta name="og:description" content="Restaurante Dos Mas, Hamburguesas Pizzas Bocatas y ensaladas para comer en casa">
 <meta name="og:image" content="">
 <meta name="og:url" content="">
 <meta name="og:site_name" content=" ">
@@ -91,7 +91,7 @@
         
        
         <li><a href="#gallery">Imágenes</a></li>
-        <li><a href="menu.php">Carta</a></li>
+        <li><a href="https://www.foodbooking.com/ordering/restaurant/menu?company_uid=34718550-b03b-44aa-a938-fd089cfeb57f">Carta</a></li>
         <li><a href="#contact">Contacto</a></li>
         
       </ul>
@@ -99,9 +99,11 @@
 
   </div>
 </header><!-- End Header -->
-
+<video autoplay muted loop id="myVideo">
+      <source src="assets/img/video-1.mp4" type="video/mp4">
+      </video>
 <!-- ======= hero-2 Section ======= -->
-<section id="hero-2" class="d-flex align-items-center">
+<section id="hero" class="d-flex align-items-center">
   <div class="container position-relative text-center text-lg-center" data-aos="zoom-in" data-aos-delay="100">
     <div class="row">
       <div class="col-lg-12">
@@ -113,16 +115,16 @@
 		  
 		   <a class="btn-book animated fadeInUp scrollto"  onclick="gtag('event', 'llamada', { 'event_category': 'whatssapp', 'event_label': 'whatssapp'});" target="_blank"  href="https://api.whatsapp.com/send?phone=+34639706834">Reserva por Whatsapp</a>
 		   
-        </div>
+      </div> <br>
         <div class="btns">
        <a class="btn-book animated fadeInUp scrollto"  onclick="gtag('event', 'llamada', { 'event_category': 'carta', 'event_label': 'carta'});" target="_blank"  href="https://www.foodbooking.com/ordering/restaurant/menu?company_uid=34718550-b03b-44aa-a938-fd089cfeb57f">Pide desde Nuestra Carta Virtual</a>
        
         </div>
-      </div>
+      
 
     </div>
   </div>
-</section><!-- End hero-2 -->
+</section><!-- End hero -->
 
 <main id="main">
 
@@ -133,7 +135,7 @@
       <div class="row">
 
         <div class="col-lg-5 about-img d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
-         <a href="https://www.youtube.com/watch?v=T5DrU7O9K-w" class="venobox play-btn" data-vbtype="video" data-autoplay="true"></a>
+         <a href="https://www.youtube.com/watch?v=gO9iilbXV7E" class="venobox play-btn" data-vbtype="video" data-autoplay="true"></a>
        </div>
  
        <div class="col-lg-6 pt-4 pl-4 ml-auto content">
@@ -151,10 +153,10 @@
 		Ahora reforzamos nuestra carta con Burguers, Ensaladas, Pizzas y nuestros Bocatas de siempre , para que te puedas llevar tu comida a casa.
           </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> Pescaito Frito</li>
-          <li><i class="icofont-check-circled"></i> Arroces de la tierra.</li>
-          <li><i class="icofont-check-circled"></i> Mariscos.</li>
-		  <li><i class="icofont-check-circled"></i> Pescados Fresco.</li>
+          <li><i class="icofont-check-circled"></i> Burguers</li>
+          <li><i class="icofont-check-circled"></i> Pizzas</li>
+          <li><i class="icofont-check-circled"></i> Ensaladas</li>
+		  <li><i class="icofont-check-circled"></i> Bocatas</li>
         </ul>
        
       </div>
@@ -162,205 +164,12 @@
 
   </div>
 </section><!-- End About Section -->
-
-
-
-
-
-<!-- ======= Specials Section ======= 
-<section id="specials" class="specials">
-  <div class="container" data-aos="fade-up">
-
-    <div class="section-title">
-      <h2>Especialidades</h2>
-      <p>Aquí puedes ver nuestras especialidades</p>
-    </div>
-
-    <div class="row" data-aos="fade-up" data-aos-delay="100">
-      <div class="col-lg-3">
-        <ul class="nav nav-tabs flex-column">
-          <li class="nav-item">
-            <a class="nav-link active show" data-toggle="tab" href="#tab-1">Rice with Wild Boar</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab-2">Wild Mountain Mushroom</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab-3">Donut with Red Cranberries</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab-4">Montana Cheese Burger</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab-5">Wild Mountain Mushroom</a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-lg-9 mt-4 mt-lg-0">
-        <div class="tab-content">
-          <div class="tab-pane active show" id="tab-1">
-            <div class="row">
-              <div class="col-lg-8 details order-2 order-lg-1">
-                <h3>Rice with Wild Boar Liver and Cutted Cheese from Texas</h3>
-                <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-              </div>
-              <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/specials-1.png" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-2">
-            <div class="row">
-              <div class="col-lg-8 details order-2 order-lg-1">
-                <h3>Wild Mountain Mushroom Skewerss with Pork and Salads</h3>
-                <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-              </div>
-              <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/specials-2.png" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-3">
-            <div class="row">
-              <div class="col-lg-8 details order-2 order-lg-1">
-                <h3>Donut with Red Cranberries of the Italian Dolomites</h3>
-                <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-              </div>
-              <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/specials-3.png" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-4">
-            <div class="row">
-              <div class="col-lg-8 details order-2 order-lg-1">
-                <h3>Montana Cheese Burger with Home Made Macon and Onion</h3>
-                <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-              </div>
-              <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/specials-4.png" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-5">
-            <div class="row">
-              <div class="col-lg-8 details order-2 order-lg-1">
-                <h3>Wild Mountain Mushroom Skewerss with Pork and Salads</h3>
-                <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-              </div>
-              <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/specials-5.png" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section>--><!-- End Specials Section -->
-
-<!-- ======= Events Section ======= 
-<section id="events" class="events">
-  <div class="container" data-aos="fade-up">
-
-    <div class="section-title">
-      <h2>Events</h2>
-      <p>Organize Your Events in our Restaurant</p>
-    </div>
-
-    <div class="owl-carousel events-carousel" data-aos="fade-up" data-aos-delay="100">
-
-      <div class="row event-item">
-        <div class="col-lg-6">
-          <img src="assets/img/birthday-event.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Birthday Parties</h3>
-          <div class="price">
-            <p><span>$250</span></p>
-          </div>
-          <p class="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <ul>
-            <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-            <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-            <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-          </ul>
-          <p>
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-         </p>
-       </div>
-     </div>
-
-     <div class="row event-item">
-      <div class="col-lg-6">
-        <img src="assets/img/private-event.jpg" class="img-fluid" alt="">
-      </div>
-      <div class="col-lg-6 pt-4 pt-lg-0 content">
-        <h3>Private Parties</h3>
-        <div class="price">
-          <p><span>$199</span></p>
-        </div>
-        <p class="font-italic">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
-        </p>
-        <ul>
-          <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-          <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-          <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-        </ul>
-        <p>
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-       </p>
-     </div>
-   </div>
-
-   <div class="row event-item">
-    <div class="col-lg-6">
-      <img src="assets/img/event-custom.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="col-lg-6 pt-4 pt-lg-0 content">
-      <h3>Custom Parties</h3>
-      <div class="price">
-        <p><span>$110</span></p>
-      </div>
-      <p class="font-italic">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.
-      </p>
-      <ul>
-        <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-        <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-        <li><i class="icofont-check-circled"></i> Quisque sit amet turpis et ipsum elementum facilisis.</li>
-      </ul>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-      </p>
-    </div>
-  </div>
-
-</div>
-
-</div>
-</section>--><!-- End Events Section -->
-
-
-
 <!-- ======= Gallery Section ======= -->
 <section id="gallery" class="gallery">
 
   <div class="container" data-aos="fade-up">
     <div class="section-title">
-      <h2>Pescados Frescos , pescaito Frito y Mariscos</h2>
+      <h2></h2>
      
     </div>
   </div>
@@ -381,6 +190,14 @@
         <div class="gallery-item">
           <a href="assets/img/gallery/2.jpg" class="venobox" data-gall="gallery-item">
             <img src="assets/img/gallery/2.jpg" alt="" class="img-fluid">
+          </a>
+        </div>
+      </div>
+
+       <div class="col-lg-3 col-md-4">
+        <div class="gallery-item">
+          <a href="assets/img/gallery/8.jpg" class="venobox" data-gall="gallery-item">
+            <img src="assets/img/gallery/8.jpg" alt="" class="img-fluid">
           </a>
         </div>
       </div>
@@ -425,13 +242,7 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-4">
-        <div class="gallery-item">
-          <a href="assets/img/gallery/8.jpg" class="venobox" data-gall="gallery-item">
-            <img src="assets/img/gallery/8.jpg" alt="" class="img-fluid">
-          </a>
-        </div>
-      </div>
+     
 
     </div>
 
@@ -452,7 +263,7 @@
 
   <div data-aos="fade-up">
 
-   <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.9506134178914!2d-0.6561179851584921!3d38.024930805501356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63abb6ae1ade23%3A0x418fc128bfc4e5f3!2sEl%20Rincon!5e0!3m2!1ses!2ses!4v1607077587275!5m2!1ses!2ses" allowfullscreen></iframe>
+   <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6275.877970298276!2d-0.6744953394620199!3d38.14161171003863!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1df6ef9c824cf15b!2sDos%20Mas%20Cervecer%C3%ADa!5e0!3m2!1ses!2ses!4v1613746353406!5m2!1ses!2ses" allowfullscreen></iframe>
  </div>
 
  <div class="container" data-aos="fade-up">
@@ -465,7 +276,10 @@
           <i class="icofont-google-map"></i>
           <h4>¿ Donde estamos ?:</h4>
           <p>
-calle mayor n6 local A 03188 Torrelamata</p>
+Plaza Sierra Castilla, 4 <br>
+03177 San Fulgencio <br>
+Alicante
+España</p>
         </div>
 
         <div class="open-hours">
@@ -473,20 +287,21 @@ calle mayor n6 local A 03188 Torrelamata</p>
           <h4>Horario:</h4>
           <p>
             Todos los días:<br>
-            09:00 - 18:00 
+            09:00 - 16:00, 19:00 - 22:00
           </p>
         </div>
 
         <div class="email">
           <i class="icofont-envelope"></i>
           <h4>Email:</h4>
-          <p><a href="mailto:info@quillosolutions.com">lemoslopez09@gmail.com</a></p>
+          <p><a href="mailto:ainhoaes@hotmail.com">ainhoaes@hotmail.com
+</a></p>
         </div>
 
         <div class="phone">
           <i class="icofont-phone"></i>
           <h4>Teléfono:</h4>
-          <p><a href="tel:+34639971672">639 97 16 72</a></p>
+          <p><a href="tel:+34639706834">639706834</a></p>
         </div>
 
       </div>
@@ -509,43 +324,7 @@ calle mayor n6 local A 03188 Torrelamata</p>
               <input type="text" class="form-control" name="phone" id="phone" placeholder="Teléfono" data-rule="minlen:7" data-msg="Please enter at least 7 chars">
               <div class="validate"></div>
             </div>
-            <div class="col-lg-6 col-md-6 form-group">
-             <input type="text" name="date" placeholder="Elige el día" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Choose a Date'" class="form-control mt-20" id="datepicker2" data-rule="minlen:4" data-msg="Please choose a date">
-             <div class="validate"></div>
-           </div>
-           <div class="col-lg-6 col-md-6 form-group">
-             <select class="custom-select" name="time">
-              <option selected>Elige una hora</option>
-			   <option value="11:00">11:00 H</option>
-              <option value="12:00">12:00 H</option>
-              <option value="13:00">13:00 H</option>
-			  <option value="14:00">14:00 H</option>
-              <option value="15:00">15:00 H</option>
-			  <option value="16:00">16:00 H</option>
-             <option value="17:00">17:00 H</option>
-             
-			
-			 
-            </select>
-            <div class="validate"></div>
-          </div>
-          <div class="col-lg-6 col-md-6 form-group">
-           <select class="custom-select mr-sm-2" name="person">
-            <option selected>Personas</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-            <option value="5+">5</option>
-			<option value="3">6</option>
-            <option value="4">7</option>
-            <option value="8+">8+</option>
-			
-			
-			
-          </select>
-          <div class="validate"></div>
-        </div>
+           
 
           <div class="text-center"><button type="submit" onclick="gtag('event', 'reserva', { 'event_category': 'reserva', 'event_label': 'reserva'});">Reserva tu mesa</button></div>
 
@@ -578,7 +357,7 @@ calle mayor n6 local A 03188 Torrelamata</p>
 			 <img src="assets/img/todo-torrevieja-logo.jpg" alt="">
 			  <div class="social-links mt-3">
               
-              <a href="https://www.facebook.com/maria19517" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.facebook.com/dosmascerveceria" class="facebook"><i class="bx bxl-facebook"></i></a>
              
             </div>
           </div>
@@ -591,11 +370,11 @@ calle mayor n6 local A 03188 Torrelamata</p>
 
   <div class="container">
     <div class="copyright">
-     <p class="rights"><span>Todo-Torrevieja.</span><span>&nbsp;</span><span id="copyright-year">2020</span>Todos los derechos reservados.</p>
+     <p class="rights"><span>Dos Mas.</span><span>&nbsp;</span><span id="copyright-year">2020</span>Todos los derechos reservados.</p>
   </div>
 </div>
 </footer><!-- End Footer -->
-<!-- cookies -->	
+<!-- cookies 
 	  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
 window.cookieconsent.initialise({
@@ -617,7 +396,7 @@ window.cookieconsent.initialise({
     
   }
 });
-</script>
+</script>-->  
 <!-- END -->
 
 <div id="preloader"></div>
